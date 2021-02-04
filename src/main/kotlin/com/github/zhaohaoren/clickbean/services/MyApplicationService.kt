@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zhaohaoren.clickbean.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zhaohaoren.clickbean.MyBundle
 
 class MyApplicationService {
 
